@@ -5,8 +5,8 @@ I’m developing hands-on skills in Excel, SQL, Python, and Power BI to become a
 The goal is to build a solid portfolio with real-world data analysis projects that showcase my skills in data cleaning, analysis, visualization, and storytelling.
 
 # Projects Coming Soon:
-🧮 Excel Case Study – Sales/HR Analytics
-🧠 SQL Query Practice & Case Problems
-🐍 Python Exploratory Data Analysis (EDA)
-📊 Power BI Dashboard
-📁 Portfolio + Project Write-Ups
+🧮 Excel Case Study – Sales/HR Analytics  
+🧠 SQL Query Practice & Case Problems  
+🐍 Python Exploratory Data Analysis (EDA)  
+📊 Power BI Dashboard  
+📁 Portfolio + Project Write-Ups  
